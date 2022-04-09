@@ -1,0 +1,22 @@
+.titles{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.colors{
+    color: rgb(192, 84, 84);
+}
+.underline{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.aboutstyles{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.floatimage{
+    float: right;
+    height: 200px;
+}
+.floatimage2{
+    float: right;
+    height: 120px;
+}
